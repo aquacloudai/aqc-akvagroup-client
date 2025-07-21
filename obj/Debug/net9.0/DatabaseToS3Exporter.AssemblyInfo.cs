@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseToS3Exporter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d509db5e2749a5eee33fd4ad91e014ee2bb8a67")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseToS3Exporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseToS3Exporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
